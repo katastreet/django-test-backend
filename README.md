@@ -35,6 +35,6 @@ true
 ```
  
  
- Frontend repo at:
+ Frontend repo at: https://github.com/katastreet/react-test-frontend
  
  
